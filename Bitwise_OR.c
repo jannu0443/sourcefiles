@@ -1,3 +1,5 @@
+/*Bitwise operators*/
+
 #include<stdio.h>
 
 int main()
