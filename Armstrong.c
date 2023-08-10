@@ -1,3 +1,4 @@
+/* source file for Armstrong*/
 #include<stdio.h>
 main()
 {
